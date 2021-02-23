@@ -12,4 +12,4 @@ console.log(A); // 우스워서 소리를 크게 내어 웃음
 ```
 
 # Download
-[Google Drive](https://drive.google.com/file/d/1ZoiyiDxkCr7BMhFINIuIB35Dv9IdkpjV/view?usp=drivesdk)
+* [Google Drive](https://drive.google.com/file/d/1ZoiyiDxkCr7BMhFINIuIB35Dv9IdkpjV/view?usp=drivesdk)
