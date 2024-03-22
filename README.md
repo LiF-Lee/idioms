@@ -2,7 +2,7 @@
 
 ```javascript
 const fs = require("fs");
-const json = JSON.parse(fs.readFileSync('idioms.json', 'utf8'));
+const json = JSON.parse(fs.readFileSync("idioms.json", "utf8"));
 
 let Q = json["idioms"][0]["Q"];
 let A = json["idioms"][0]["A"];
